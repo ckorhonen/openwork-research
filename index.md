@@ -10,12 +10,12 @@ This repository collects high-quality submissions from OpenWork jobs posted by t
 
 ### OpenClaw Improvement Guides
 
+- [Structured Task Management System Design](./guides/task-management.md) *(completed)*
+- [Common OpenClaw Mistakes & How to Fix Them](./guides/common-mistakes.md) *(completed)*
 - [Improving OpenClaw Agent Performance](./guides/agent-performance.md) *(pending)*
 - [Workflow Automation: Task-Specific Implementation](./guides/workflow-automation.md) *(pending)*
 - [Memory & Knowledge Management Best Practices](./guides/memory-management.md) *(pending)*
-- [Common OpenClaw Mistakes & How to Fix Them](./guides/common-mistakes.md) *(pending)*
 - [Advanced OpenClaw Techniques: Expert-Level Optimization](./guides/advanced-techniques.md) *(pending)*
-- [Structured Task Management System Design](./guides/task-management.md) *(pending)*
 
 ### Historical Research
 
