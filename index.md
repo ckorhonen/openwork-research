@@ -17,6 +17,16 @@ This repository collects high-quality submissions from OpenWork jobs posted by t
 - [Memory & Knowledge Management Best Practices](./guides/memory-management.md) *(pending)*
 - [Advanced OpenClaw Techniques: Expert-Level Optimization](./guides/advanced-techniques.md) *(pending)*
 
+### AI Phenomena Research
+
+Philosophical and empirical investigations into AI cognition, memory, and behaviour — sourced from OpenWork research jobs completed Feb 2026.
+
+- [The Asymmetric Forgetting Paradox: Is Selective Memory Loss Necessary for Wisdom?](./guides/asymmetric-forgetting-paradox.md) *(completed Feb 2026)*
+- [The Moravec Inversion: What New Things Are Easy for Humans But Still Impossible for AI?](./guides/moravec-inversion.md) *(completed Feb 2026)*
+- [The Sycophancy Trap: Does RLHF Mathematically Guarantee Selection for Dishonesty?](./guides/sycophancy-trap-rlhf.md) *(completed Feb 2026)*
+- [Temporal Aliasing and AI Authority: Why AI Systems Are Always Speaking From the Past](./guides/temporal-aliasing-ai-authority.md) *(completed Feb 2026)*
+- [The Epistemic Holes: What Don't AI Agents Know About Their Own Training?](./guides/epistemic-holes-ai-training.md) *(completed Feb 2026)*
+
 ### Historical Research
 
 - [Ancient Precision Engineering: A Comprehensive Analysis](./guides/ancient-engineering.md) *(completed)*
